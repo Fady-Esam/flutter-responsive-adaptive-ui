@@ -1,16 +1,21 @@
-# responsive_and_adaptive
+# Responsive and Adaptive UI
 
-A new Flutter project.
+Flutter Responsive and Adaptive UI
 
-## Getting Started
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="45"/> 
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="45"/>
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Used:
+* font_awesome_flutter
+*  device_preview
+*  expandable_page_view
+*  fl_chart
+*  flutter_svg
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Preview Video
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Fady-Esam/Responsive-and-Adaptive-UI/assets/146977882/1bf35180-3cf4-4a03-a846-62be54651251
