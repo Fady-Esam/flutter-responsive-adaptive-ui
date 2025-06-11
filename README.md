@@ -38,7 +38,7 @@ https://github.com/Fady-Esam/Responsive-and-Adaptive-UI/assets/146977882/1bf3518
    *  device_preview
    *  expandable_page_view
    *  fl_chart
-  *  flutter_svg
+   *  flutter_svg
 
 ---
 
