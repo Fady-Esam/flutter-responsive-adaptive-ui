@@ -4,7 +4,7 @@
 
 # 📱 Responsive and Adaptive UI
 
-A Flutter project demonstrating how to build **responsive** and **adaptive** UIs that seamlessly work across various screen sizes and platforms — from mobile phones to tablets and desktop.
+A Flutter project demonstrating how to build **responsive** and **adaptive** UIs that seamlessly work across various screen sizes and platforms from mobile phones to tablets and desktop.
 
 ---
 
