@@ -13,7 +13,7 @@ A **Flutter** project demonstrating how to build **responsive** and **adaptive**
 - 📱 Responsive Layouts using `LayoutBuilder` and `MediaQuery`
 - 🧩 Adaptive designs that scale across screen types
 - 📊 Interactive charts and components
-- 🧪 Supports testing in multiple device environments via `device_preview`
+- 🧪 Supports testing in multiple device environments 
 
 ---
 
